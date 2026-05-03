@@ -1,0 +1,7 @@
+https://www.asus.com/media/Odin/Websites/global/SiteSetting/20200825052736.png
+https://www.asus.com/media/Odin/images/header/IoT_hover.svg
+https://www.asus.com/media/Odin/images/header/IoT_normal.svg
+https://www.asus.com/media/Odin/images/header/ProArt_hover.svg
+https://www.asus.com/media/Odin/images/header/ProArt_normal.svg
+https://www.asus.com/media/Odin/images/header/ROG_hover.svg
+https://www.asus.com/media/Odin/images/header/ROG_normal.svg
